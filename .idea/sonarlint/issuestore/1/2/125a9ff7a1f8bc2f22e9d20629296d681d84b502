@@ -1,0 +1,11 @@
+
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ðŠˆö
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Þ§æöÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¡…¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ¯Íøýÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù€¼æ8ª’Ý“Ù/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£¼£àþÿÿÿÿ8«’Ý“Ù/
+0
+java:S1220""Move this file to a named package.
